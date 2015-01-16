@@ -1,0 +1,13 @@
+*.svn
+.svn
+*.exe
+*.user
+*.suo
+DoodleControl/bin
+DoodleControl/obj
+MazeDoodle/bin
+MazeDoodle/obj
+TextureChoose/bin
+TextureChoose/obj
+TestCake/bin
+TestCake/obj
