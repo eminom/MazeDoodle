@@ -80,8 +80,8 @@ namespace DoodleControls
 
         public const int GridPx = 40;
 
-        private const String TextureFileName = @"texture.png";
+        private const String TextureFileName = @"E:\texture.png";
 
-        private const String TextureWithGridFileName = @"texture_grid.jpg";
+        private const String TextureWithGridFileName = @"E:\texture_grid.jpg";
     }
 }
